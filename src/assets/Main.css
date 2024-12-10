@@ -1,0 +1,14 @@
+#m1{
+    width:30%;
+    border:2px solid black;
+    height:500px;
+}
+#m2{
+    width:70%;
+    height:500px;
+    border:2px solid black;
+}
+.container{
+    display: flex;
+    background-color: grey;
+}
